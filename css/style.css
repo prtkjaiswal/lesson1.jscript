@@ -1,0 +1,25 @@
+.site-container {
+    color: #e7dfea;
+    background-color: #864da5;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.prof_pic {
+    box-shadow: #400c5d 2px 5px 5px;    
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+}
+
+.site-content {
+    margin: 10px;
+    align: center;
+}
+
+body{
+    margin : 0;
+}
